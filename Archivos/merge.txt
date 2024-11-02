@@ -1,3 +1,6 @@
 Andrés Jacobo Leal Aguirre
 17 años
+Mis aspiraciones son aprender mucho sobre la POO y ser capaz de utilizarla en problemas con gran facilidad.
 No hizo el commit porque era una carpeta vacía
+
+Es importante tener cuidado para que no haya inconsistencias de cambios a un mismo archivo
